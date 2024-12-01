@@ -1,7 +1,3 @@
-# How to Setup
-- [ ] Add pypi API key
-- [ ] modify setup.py
-- [ ] rename project folder
-# Project Description
+## bariatric_candidate
 
-Describe what your project does here.
+Used to do quick calculations about bariatric candidates

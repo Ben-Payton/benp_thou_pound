@@ -2,12 +2,12 @@ import setuptools
 
 import pathlib
 
-PROJECT_NAME = "your_project_name"
-VERSION = "0.0.0"
-SHORT_DESCRIPTION = "useful python tools that I use to streamline my work."
-SOURCE_CODE_LINK= "https://github.com/Ben-Payton/repo_name"
-DOCUMENTATION_LINK = "https://github.com/Ben-Payton/ben_sci_tools/blob/main/README.md" 
-REQUIRED_DEPENDANCIES = []
+PROJECT_NAME = "benp_thou_pound"
+VERSION = "0.0.1"
+SHORT_DESCRIPTION = "A library for quick data analysis while watch shows with bariatric surgery."
+SOURCE_CODE_LINK= "https://github.com/Ben-Payton/benp_thou_pound"
+DOCUMENTATION_LINK = "https://github.com/Ben-Payton/benp_thou_pound/blob/main/README.md" 
+REQUIRED_DEPENDANCIES = ["numpy","scipy","matplotlib","pandas"]
 
 
 setuptools.setup(
