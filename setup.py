@@ -3,7 +3,7 @@ import setuptools
 import pathlib
 
 PROJECT_NAME = "benp_thou_pound"
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 SHORT_DESCRIPTION = "A library for quick data analysis while watch shows with bariatric surgery."
 SOURCE_CODE_LINK= "https://github.com/Ben-Payton/benp_thou_pound"
 DOCUMENTATION_LINK = "https://github.com/Ben-Payton/benp_thou_pound/blob/main/README.md" 
